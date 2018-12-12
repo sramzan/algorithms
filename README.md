@@ -12,7 +12,7 @@ A place to play with algorithms, various coding challenges, and document stuff a
 ```
 ### Running the Language Docs locally
   ```bash
-    cd python/language_docs/docs
+    cd python/docs
     mkdocs serve
     # Docs will launch at http://127.0.0.1:8000
   ```
