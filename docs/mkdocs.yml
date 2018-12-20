@@ -1,0 +1,14 @@
+docs_dir: src
+site_name: Sean's Algorithm/Python Notes
+nav:
+    - Home: index.md
+    - Python:
+      - Identifiers and Keywords: identifiers_keywords.md
+      - Lists: lists.md
+    - Algorithms: algorithms.md
+    - Outstanding Questions: questions.md
+theme:
+  name: material
+  custom_dir: 'theme_override'
+extra_css: [overrides.css]
+dev_addr: localhost:8000

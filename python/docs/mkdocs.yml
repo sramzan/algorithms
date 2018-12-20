@@ -1,6 +1,0 @@
-docs_dir: src
-site_name: Sean's Python Notes
-nav:
-    - Home: index.md
-    - Identifiers and Keywords: identifiers_keywords.md
-theme: material
