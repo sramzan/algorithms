@@ -7,3 +7,4 @@
 ## Exponents
 ## Size of arrays/lists
 ## Reserved Keywords
+## Different union/intersection symbols (more mathy )
