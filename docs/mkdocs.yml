@@ -1,4 +1,4 @@
-docs_dir: src
+docs_dir: pages
 site_name: Sean's Algorithm/Python Notes
 nav:
     - Home: index.md

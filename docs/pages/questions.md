@@ -7,4 +7,8 @@
 ## Exponents
 ## Size of arrays/lists
 ## Reserved Keywords
-## Different union/intersection symbols (more mathy )
+## Different union/intersection symbols (more mathy)
+## Radix Sort
+## Array Indexing fir determining relative ordering (way to speed up comparison sort algorithms)
+## Bucket Sort - requires knowledge of the probabilistic distribution of numbers in the input array
+## Docstrings proper practice
