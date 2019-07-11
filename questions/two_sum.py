@@ -12,7 +12,6 @@ Example:
     return [0, 1].
 
 Source: https://leetcode.com/problems/two-sum/
-
 '''
 
 

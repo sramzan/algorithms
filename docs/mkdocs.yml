@@ -3,8 +3,9 @@ site_name: Sean's Algorithm/Python Notes
 nav:
     - Home: index.md
     - Python:
-      - Identifiers and Keywords: identifiers_keywords.md
-      - Lists: lists.md
+      - Language Overview: python/general.md
+      - Identifiers and Keywords: python/identifiers_keywords.md
+      - Lists: python/lists.md
     - Algorithms: algorithms.md
     - Outstanding Questions: questions.md
 theme:
